@@ -93,21 +93,6 @@ examples-de-dashboards-de-negocios/
 
 ---
 
-## 🔹 Página 1 – Modelos de Gráficos
-![Página 1](b5eaee51-92f1-4753-8681-08af4db1239c.png)
-
----
-
-## 🔹 Página 2 – Modelos de Gráficos
-![Página 2](46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
-
----
-
-## 🔹 Página 3 – Modelos de Gráficos
-![Página 3](9581742e-0fff-4b23-a718-8d57063d0386.png)
-
----
-
 <p align="center">
   ✨ Obrigada por visualizar este portfólio! ✨  
 </p>
