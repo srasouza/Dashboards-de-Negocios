@@ -65,10 +65,11 @@ examples-de-dashboards-de-negocios/
    git clone https://github.com/seuUsuario/examples-de-dashboards-de-negocios.git
    ```
 
-2. Abra o arquivo **.pbix** utilizando o Power BI Desktop.
+2. Abra o arquivo* **.pbix** utilizando o Power BI Desktop.
 
 3. Explore cada página do relatório, onde estão organizados os diferentes modelos de gráficos.
 
+*Pra baixar pela lista de uploads escolha o arquivo dashboards-de-negocios.pbix e clique na seta ⬇️ no canto direito.
 ---
 
 # 📸 Exemplos de Dashboards e Visualizações
