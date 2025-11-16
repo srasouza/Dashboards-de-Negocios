@@ -10,7 +10,7 @@ Conjunto de visualizações de dados e dashboards desenvolvidos para diferentes 
 
 ## 🧠 Sobre o Projeto
 
-Este [repositório](Dashboards-de-Negocios_dashboards-de-negocios.pbixatamain·srasouza_Dashboards-de-Negocios)* reúne diversas representações visuais criadas para demonstrar **modelos de dashboards utilizados em ambientes corporativos**.
+Este repositório* reúne diversas representações visuais criadas para demonstrar **modelos de dashboards utilizados em ambientes corporativos**.
 
 *Pra baixar clique na seta ⬇️ no canto direito.
 
