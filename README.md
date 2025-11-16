@@ -74,37 +74,37 @@ examples-de-dashboards-de-negocios/
 # 📸 Exemplos de Dashboards e Visualizações
 
 ## 🔹 Média Salarial por Área e Hierarquia
-![Média Salarial](imagens/e9b169bd-e07c-4836-b18d-5f31780e5f8d.png)
+![Média Salarial](e9b169bd-e07c-4836-b18d-5f31780e5f8d.png)
 
 ---
 
 ## 🔹 Evolução dos Contratos
-![Evolução Contratos](imagens/ab13872a-8fbc-4da0-9944-8ca5938d8b92.png)
+![Evolução Contratos](ab13872a-8fbc-4da0-9944-8ca5938d8b92.png)
 
 ---
 
 ## 🔹 Efetivo x Terceiro + Contagem de Clientes
-![Efetivo x Terceiro](imagens/6e50bc20-98df-4dc1-9784-f34f68ccc5b3.png)
+![Efetivo x Terceiro](6e50bc20-98df-4dc1-9784-f34f68ccc5b3.png)
 
 ---
 
 ## 🔹 Dashboard Completo: Relatório de Vendas
-![Dashboard Vendas](imagens/350253bc-9656-4b24-83d5-a9bb7ac6a83f.png)
+![Dashboard Vendas](350253bc-9656-4b24-83d5-a9bb7ac6a83f.png)
 
 ---
 
 ## 🔹 Página 1 – Modelos de Gráficos
-![Página 1](imagens/b5eaee51-92f1-4753-8681-08af4db1239c.png)
+![Página 1](b5eaee51-92f1-4753-8681-08af4db1239c.png)
 
 ---
 
 ## 🔹 Página 2 – Modelos de Gráficos
-![Página 2](imagens/46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
+![Página 2](46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
 
 ---
 
 ## 🔹 Página 3 – Modelos de Gráficos
-![Página 3](imagens/9581742e-0fff-4b23-a718-8d57063d0386.png)
+![Página 3](9581742e-0fff-4b23-a718-8d57063d0386.png)
 
 ---
 
