@@ -2,7 +2,7 @@
   <img src="Capa.png" width="100%" />
 </p>
 
-# 📊 Examples de Dashboards de Negócios
+# 📊 Exemplos de Dashboards de Negócios
 
 Conjunto de visualizações de dados e dashboards desenvolvidos para diferentes necessidades analíticas, incluindo métricas financeiras, evolução de contratos, criticidade de projetos e distribuição de clientes.
 
@@ -39,7 +39,7 @@ As visualizações incluem:
 ## 📁 Estrutura do Repositório
 
 ```
-examples-de-dashboards-de-negocios/
+exemplos-de-dashboards-de-negocios/
 │
 ├── dashboards/
 │   └── dashboard_negocios.pbix       # Arquivo com todo o projeto
@@ -49,9 +49,6 @@ examples-de-dashboards-de-negocios/
 │   ├── evolucao_contratos.png
 │   ├── efetivo_terceiro.png
 │   ├── dashboard_vendas.png
-│   ├── pagina_1.png
-│   ├── pagina_2.png
-│   └── pagina_3.png
 │
 └── README.md
 ```
