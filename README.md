@@ -39,13 +39,13 @@ As visualizações incluem:
 ## 📁 Estrutura do Repositório
 
 ```
-exemplos-de-dashboards-de-negocios/
+dashboards-de-negocios/
 │
 ├── dashboards/
-│   └── dashboard_negocios.pbix       # Arquivo com todo o projeto
+│   └── dashboard-de-negocios.pbix       # Arquivo com todo o projeto
 │
 ├── imagens/
-│   ├── grafico_media_salarial.png
+│   ├── media_salarial.png
 │   ├── evolucao_contratos.png
 │   ├── efetivo_terceiro.png
 │   ├── dashboard_vendas.png
