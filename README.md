@@ -2,7 +2,7 @@
   <img src="Capa.png" width="100%" />
 </p>
 
-# 📊 Exemplos de Dashboards de Negócios
+  # 📊 Modelos de Dashboards de Negócios
 
 Conjunto de visualizações de dados e dashboards desenvolvidos para diferentes necessidades analíticas, incluindo métricas financeiras, evolução de contratos, criticidade de projetos e distribuição de clientes.
 
